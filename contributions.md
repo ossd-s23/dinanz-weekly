@@ -27,3 +27,4 @@ Replace the first row with your own contribution.
 | Feb 26   |  https://www.openstreetmap.org/changeset/133062980   |   OpenStreetMap    |   Added a shop in Beijing   |
 | Feb 26   |  https://www.openstreetmap.org/changeset/133063045   |   OpenStreetMap    |   Added a hotel in Beijing   |
 | Feb 26   |   https://www.openstreetmap.org/changeset/133063072  |   OpenStreetMap    |   Added a small musem in Beijing   |
+| April 9 | https://en.wikipedia.org/w/index.php?title=Native_(computing)&oldid=1149087806 | Wikipedia | Added a small section to the "Native (computing)" page defining cloud native |
