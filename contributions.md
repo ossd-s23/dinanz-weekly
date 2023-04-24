@@ -28,3 +28,6 @@ Replace the first row with your own contribution.
 | Feb 26   |  https://www.openstreetmap.org/changeset/133063045   |   OpenStreetMap    |   Added a hotel in Beijing   |
 | Feb 26   |   https://www.openstreetmap.org/changeset/133063072  |   OpenStreetMap    |   Added a small musem in Beijing   |
 | April 9 | https://en.wikipedia.org/w/index.php?title=Native_(computing)&oldid=1149087806 | Wikipedia | Added a small section to the "Native (computing)" page defining cloud native |
+| April 22 | https://docs.google.com/document/d/1Ehr58mj91-1j8YROASFjPLIgGDqmXAvKV9FbKzk9EA8/edit?pli=1# | Security textbook suggestion | Made a small typo fix to the textbook chapter |
+| April 23 | https://github.com/codinasion/program/pull/7405 | Code contribution | Added a small program that resolves an issue |
+| April 23 | https://www.openstreetmap.org/changeset/135280756 | OpenStreetMap | Added a coffee shop |
